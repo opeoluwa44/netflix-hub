@@ -1,0 +1,38 @@
+.row-posters{
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding: 10px;
+}
+
+.row-postersHeight{
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding-bottom: 30px;
+    padding-inline: 10px;
+}
+
+.row-posters::-webkit-scrollbar{
+    display: none;
+}
+
+
+.row-poster:hover{
+    transform: scale(1.08);
+}
+
+.header-title{
+    padding-inline: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 700;
+    color: #fff;
+    margin-top: 10px;
+   /* color: #fff;*/
+}
+
+.video-frame{
+    padding-inline:20px;
+}

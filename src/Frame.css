@@ -1,0 +1,33 @@
+.row-poster{
+    width: fit-content;
+    height: 120px;
+    object-fit: contain;
+    margin-right: 10px;
+    transition: transform 450ms ease;
+}
+
+.row-posterHeight{
+    width: fit-content;
+    object-fit: contain;
+    height: 100%;
+}
+
+ 
+.frame{
+    width: 300px;
+    height: 169px;
+}
+
+.frameHeight{
+    width: 200px;
+    height: 220px;
+
+}
+
+.movie-title{
+    color: #fff;
+    font-size: 13px;
+    display: block;
+    text-align: center;
+    margin: 0;
+}
