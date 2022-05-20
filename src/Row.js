@@ -34,7 +34,7 @@ function Row({title, fetchUrl, addHeight}) {
        }else{
          movieTrailer(movie?.name || movie?.title || movie?.original_title || "")
          .then((url) =>{
-            //console.log(url)
+            console.log(url)
             const id = getYouTubeID(url)
             setTrailerId(id)
          })
