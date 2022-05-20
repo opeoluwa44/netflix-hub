@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/netflix-hub/static/css/main.2c7d1771.css",
+    "main.js": "/netflix-hub/static/js/main.2a842cf7.js",
+    "static/js/787.0904c1f0.chunk.js": "/netflix-hub/static/js/787.0904c1f0.chunk.js",
+    "index.html": "/netflix-hub/index.html",
+    "main.2c7d1771.css.map": "/netflix-hub/static/css/main.2c7d1771.css.map",
+    "main.2a842cf7.js.map": "/netflix-hub/static/js/main.2a842cf7.js.map",
+    "787.0904c1f0.chunk.js.map": "/netflix-hub/static/js/787.0904c1f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c7d1771.css",
+    "static/js/main.2a842cf7.js"
+  ]
+}
